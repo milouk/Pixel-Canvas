@@ -2,6 +2,15 @@
 
 This app generates a random pixel canvas of the color the user picks.
 
+<h2> Features </h2>
+ 
+User can :
+
+* Pick color.
+* Pick dimensions.
+* Save the file in whatever format he likes.
+
+
 
 <h2> How to Use </h2>
 
