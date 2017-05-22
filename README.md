@@ -7,7 +7,7 @@ This app generates a random pixel canvas of the color the user picks.
 
 To use this application you need to:
 
-* Install Python 3 from [here](https://www.python.org/)<h2> License </h2>
+* Install Python 3 from [here](https://www.python.org/)
 * Clone the repo : `https://github.com/milouk/Pixel-Canvas.git`
 * Install : `matplotlib` and `numpy`
 
